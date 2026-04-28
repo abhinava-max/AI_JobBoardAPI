@@ -1,0 +1,31 @@
+Job Seekers
+===========
+id: 2 | email: aisha.rahman@example.com | username: aisha_rahman | password: Aisha@2026
+id: 3 | email: miguel.santos@example.com | username: miguel_santos | password: Miguel@2026
+id: 4 | email: mei.lin@example.com | username: mei_lin | password: Mei@2026
+id: 5 | email: kwame.mensah@example.com | username: kwame_mensah | password: Kwame@2026
+id: 6 | email: sofia.kowalska@example.com | username: sofia_kowalska | password: Sofia@2026
+id: 7 | email: omar.haddad@example.com | username: omar_haddad | password: Omar@2026
+id: 8 | email: elena.garcia@example.com | username: elena_garcia | password: Elena@2026
+id: 9 | email: arjun.iyer@example.com | username: arjun_iyer | password: Arjun@2026
+id: 18 | email: leila.benkirane@example.com | username: leila_benkirane | password: Leila@2026
+id: 19 | email: tomasz.nowak@example.com | username: tomasz_nowak | password: Tomasz@2026
+id: 20 | email: nadia.petrov@example.com | username: nadia_petrov | password: Nadia@2026
+id: 21 | email: kenji.watanabe@example.com | username: kenji_watanabe | password: Kenji@2026
+id: 22 | email: isabella.rossi@example.com | username: isabella_rossi | password: Isabella@2026
+
+Recruiters
+==========
+id: 10 | email: priya.nair@recruiter.example.com | username: priya_nair | password: Priya@2026
+id: 11 | email: james.okafor@recruiter.example.com | username: james_okafor | password: James@2026
+id: 12 | email: hana.kim@recruiter.example.com | username: hana_kim | password: Hana@2026
+id: 13 | email: lucas.moreau@recruiter.example.com | username: lucas_moreau | password: Lucas@2026
+id: 14 | email: fatima.alzahra@recruiter.example.com | username: fatima_al_zahra | password: Fatima@2026
+id: 15 | email: noah.williams@recruiter.example.com | username: noah_williams | password: Noah@2026
+id: 16 | email: anika.bose@recruiter.example.com | username: anika_bose | password: Anika@2026
+id: 17 | email: diego.morales@recruiter.example.com | username: diego_morales | password: Diego@2026
+id: 23 | email: samira.elsayed@recruiter.example.com | username: samira_el_sayed | password: Samira@2026
+id: 24 | email: ethan.brooks@recruiter.example.com | username: ethan_brooks | password: Ethan@2026
+id: 25 | email: marisol.vega@recruiter.example.com | username: marisol_vega | password: Marisol@2026
+id: 26 | email: liam.chen@recruiter.example.com | username: liam_chen | password: Liam@2026
+id: 27 | email: zara.mbeki@recruiter.example.com | username: zara_mbeki | password: Zara@2026

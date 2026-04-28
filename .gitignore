@@ -1,0 +1,16 @@
+.env
+**/*.pyc
+**/__pycache__
+**/.venv
+**/venv
+**/env
+**/*.pdf
+**/Policies
+**/VectorDB
+**/*.db
+**/.gradio
+.gradio
+.env
+.venv
+.ipynb_checkpoints
+.DS_Store
