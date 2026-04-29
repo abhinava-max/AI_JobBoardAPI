@@ -151,8 +151,8 @@ def recommend_jobs(resume_text: str, limit: int = 5):
     })
 
     results = semantic_search(query=resume_summary.content, k=limit)
-    context = ""
 
+    context = ""
     for item in results:
         context += f"""
         Content:
@@ -168,9 +168,10 @@ def recommend_jobs(resume_text: str, limit: int = 5):
         """
 
     answer = llm_chain_recommend.invoke({
-        "context": context, 
-        "question": f"Recommend the best jobs for this candidate profile: {resume_summary.content}"})
-    
+        "context": context,
+        "profile": resume_summary.content
+    })
+
     return {
         "resume_summary": resume_summary.content,
         "recommendations": answer.content,
